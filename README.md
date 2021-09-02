@@ -21,3 +21,5 @@ simple shell scripts that may be of interest to you
 **screenshot.sh** save screenshots in yyyy-mm-dd-time format. i bind 'screenshot.sh' to print for full screen screenshots and 'screenshot.sh -s' to shift+print to select a region for the screenshot.
 
 **last_screenshot.sh** uses dragon to create a drag and drop box with your last screenshot. this script assumes your screenshots are kept in $XDG_PICTURES_DIR/screenshots and requires yyyy-mm-dd-time format to work.
+
+**view_images.sh** look at pictures
