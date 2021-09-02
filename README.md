@@ -9,3 +9,5 @@ simple shell scripts that may be of interest to you
 **fonts.sh** a simpler alternative to [fontpreview](https://github.com/sdushantha/fontpreview). this script generates all fonts so you can view them as you please in sxiv. mark as many as you like.
 
 **grephist.sh** and **dmenuhist.sh** scripts i alias to h and hd for quickly serching my command history. dmenuhist.sh lets you select a command with dmenu and xdotool types it into your terminal so you only need to hit enter.
+
+**update_zig.sh** download, extract, and rename latest zig master binary
