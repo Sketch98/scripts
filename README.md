@@ -10,4 +10,10 @@ simple shell scripts that may be of interest to you
 
 **grephist.sh** and **dmenuhist.sh** scripts i alias to h and hd for quickly serching my command history. dmenuhist.sh lets you select a command with dmenu and xdotool types it into your terminal so you only need to hit enter.
 
-**update_zig.sh** download, extract, and rename latest zig master binary
+**update_zig.sh** download, extract, and rename latest zig master binary.
+
+**browse.sh** a file or directory selector for dmenu.
+
+**config.sh** select a config file with browse.sh and opens it in a new terminal.
+
+**memes.sh** allows you to quickly find and select images to drag and drop into your browser. uses browse.sh, sxiv, and dragon.
